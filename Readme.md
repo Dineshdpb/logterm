@@ -11,7 +11,7 @@ You can install LogTerm using npm:
 
 ```shell
 npm install logterm
-
+```
 
 ## Usage
 
@@ -47,6 +47,6 @@ app.listen(3000, () => {
   console.log('Server is running on port 3000');
 });
 
-
+```
 
 
